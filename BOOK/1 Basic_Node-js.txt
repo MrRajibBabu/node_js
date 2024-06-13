@@ -20,7 +20,7 @@ istall npm package for work
 
 	cmd: npm install package_name ((package_name like express,react & other ))
 
-	cmd: npm install ((if packages delete from node_modules))
+	cmd: npm install ((if packages delete node_modules))
 
 	cmd: npm uninstall package_name ((uninstall any node package))
 
