@@ -1,0 +1,36 @@
+
+1. 
+download and install node js from online
+
+	cmd: node ((run node js))
+	
+	cmd: node -v ((check its version))
+
+	cmd: node index ((run a file in node like index.js))
+
+
+2. 
+npm start work
+
+	cmd: npm init ((it create package.json file which have all pacjkage info))
+
+
+3.
+istall npm package for work
+
+	cmd: npm install package_name ((package_name like express,react & other ))
+
+	cmd: npm install ((if packages delete from node_modules))
+
+	cmd: npm uninstall package_name ((uninstall any node package))
+
+
+4.
+nodemon auto refresh node terminal
+
+	cmd: npm install nodemon -g ((install nodemon package globally))
+
+	cmd: nodemon index ((run and auto refresh file))
+
+
+	

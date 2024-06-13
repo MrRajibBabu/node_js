@@ -1,0 +1,8 @@
+1.
+make start server command npm
+
+-> goto package.json file 
+
+    -> "start": "node index", ((write this line in "scripts":{} ))
+
+    cmd: npm start ((server start and run))
